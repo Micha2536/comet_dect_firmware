@@ -1,0 +1,52 @@
+Changelog Comet!Dect
+
+Version 3.68
+· Test: einige wenige Geräte melden sich nicht mehr regelmäßig bei der Box
+
+
+Version 3.66
+· Behoben: Optimierte Ventilsteuerung zur Vermeidung von Adaptierungen im Betrieb
+· Behoben: Gelegentlich zu lange Basissuche
+
+
+Version 3.65
+· Behoben: Optimierte Ventilsteuerung zur Vermeidung von Adaptierungen im Betrieb ohne Updateprobleme
+
+
+Version 3.64
+· Test: Ventilsteuerung aus 3.62 zum Testen
+· @Spielkinder: Ihr sollt nicht immer gleich alles bei euch Testen. Nicht jede neue Firmware ist ein Fortschritt!
+
+
+Version 3.63
+· Test: Ventilsteuerung aus 3.61 zum Testen
+· Behoben: Probleme bei Update über Repeater seit 3.61
+
+
+Version 3.62
+· Behoben: Optimierte Ventilsteuerung zur Vermeidung von Adaptierungen im Betrieb
+
+
+Version 3.61
+· Behoben: Gelegentlich zu lange Basissuche
+
+
+Version 3.60
+· Behoben: Neue Ventilsteuerung vermeidet Adaptierungen im Betrieb
+
+
+Version 3.54
+· Neu: Unterstützung für die Urlaubsschaltung
+· Behoben: Fehlerhafte Anzeige der IPEI im Heizkörperregler-Display
+
+
+Version 3.53
+· Neu: Unterstützung für Urlaubsschaltung
+
+
+Version 3.51
+· Behoben: Verbindungsaufbau für Managementverbindungen (Anmelden/abmelden/Locate) mit Wiederholungen
+
+
+Version 3.50
+· First Release

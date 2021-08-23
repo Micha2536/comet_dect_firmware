@@ -1,0 +1,19 @@
+**Hinweis**
+Das einspielen einer Firmware erfolgt auf Eigenverantwortung. Meckert nicht rum, wenns mal schief geht 😉
+Beachtet die txt-Datei mit den MD5-Prüfsummen, um die Integrität der entsprechenden Firmwaredatei zu prüfen.
+
+**Vorgehensweise um die Firmware zu übertragen**
+
+Umbenennen der Originaldatei...
+
+... bei einer Originalbox von AVM in dect-06.04-avm-de-049.image
+
+... bei der 1und1 Version in dect-06.04-1und1-de-049.image
+
+... bei der internationalen Variante in dect-06.04-avme-de-04x.image
+x = Ländercode (z.B. 3 für Österreich)
+
+Diese Datei dann auf einen an der Fritzbox angeschlossenen USB-Stick mit FAT32 ins Hauptverzeichnis kopieren. Box neustarten und dann sollte der Comet Thermostat die Firmware finden.
+
+
+
